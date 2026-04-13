@@ -52,7 +52,7 @@ Note: Avoid using GPIO 12 as it is a strapping pin and may cause boot issues. I 
 3. Each button press sends a predefined keyboard shortcut
 4. Internal pull-up resistors are used for stable input
 
-## 🔮 Future Improvements
+## Future Improvements
 - Rechargeable battery integration
 - Custom enclosure design (3D printed)
 - Configurable shortcuts via mobile app
